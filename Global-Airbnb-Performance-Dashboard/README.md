@@ -1,1 +1,46 @@
+# Global Airbnb Performance Dashboard
 
+## 📌 Overview
+
+This project presents an interactive Power BI dashboard that analyzes Airbnb listings across different regions. It provides insights into pricing, occupancy, customer ratings, and host performance to support business decision-making.
+
+---
+
+## 🎯 Objective
+
+To analyze Airbnb listing performance and identify trends that help understand customer preferences and property performance.
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Power BI
+- Microsoft Excel
+
+---
+
+## 📊 Dashboard Features
+
+- Revenue & Pricing Analysis
+- Average Ratings
+- Host Performance
+- Property Type Distribution
+- Regional Analysis
+- Interactive Filters & Slicers
+
+---
+
+## 📈 Key Insights
+
+- Identified top-performing locations.
+- Compared pricing across regions.
+- Analyzed customer ratings.
+- Evaluated host performance metrics.
+
+---
+
+## 📂 Files Included
+
+- Global_Airbnb_Dashboard.pbix
+- Dashboard Screenshots
+- Dataset
